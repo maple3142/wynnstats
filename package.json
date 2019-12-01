@@ -11,7 +11,7 @@
 	"dependencies": {
 		"bootstrap": "4.3.1",
 		"bootstrap-vue": "^2.0.2",
-		"change-case": "^3.0.1",
+		"change-case": "^4.0.0",
 		"date-fns": "^2.4.1",
 		"dexie": "^2.0.4",
 		"escape-string-regexp": "^2.0.0",
