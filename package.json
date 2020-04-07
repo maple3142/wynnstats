@@ -14,7 +14,7 @@
 		"change-case": "^3.0.1",
 		"date-fns": "^2.4.1",
 		"dexie": "^2.0.4",
-		"escape-string-regexp": "^2.0.0",
+		"escape-string-regexp": "^3.0.0",
 		"font-awesome": "^4.7.0",
 		"lodash": "^4.17.4",
 		"vue": "^2.6.10",
