@@ -9,7 +9,7 @@
 		"lint": "prettier src/*/**.{js,json,vue,css} --write"
 	},
 	"dependencies": {
-		"bootstrap": "4.3.1",
+		"bootstrap": "4.4.0",
 		"bootstrap-vue": "^2.0.2",
 		"change-case": "^3.0.1",
 		"date-fns": "^2.4.1",
