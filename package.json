@@ -35,7 +35,7 @@
 		"file-loader": "^4.2.0",
 		"html-webpack-plugin": "^3.2.0",
 		"poi": "^12.7.2",
-		"prettier": "^1.18.2",
+		"prettier": "^2.0.0",
 		"regenerator-runtime": "^0.13.3",
 		"url-loader": "^2.1.0",
 		"vue-loader": "^15.4.2",
